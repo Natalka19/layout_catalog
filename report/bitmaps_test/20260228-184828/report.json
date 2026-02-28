@@ -4,7 +4,7 @@
     {
       "pair": {
         "reference": "../bitmaps_reference/Entire_document_1024px.png",
-        "test": "../bitmaps_test/20260228-180210/Entire_document_1024px.png",
+        "test": "../bitmaps_test/20260228-184828/Entire_document_1024px.png",
         "selector": "document",
         "fileName": "Entire_document_1024px.png",
         "label": "Entire document",
@@ -20,9 +20,9 @@
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 0.6843581824853229,
-          "misMatchPercentage": "0.68",
-          "analysisTime": 34
+          "rawMisMatchPercentage": 0.6505320450097847,
+          "misMatchPercentage": "0.65",
+          "analysisTime": 28
         }
       },
       "status": "pass"
@@ -30,7 +30,7 @@
     {
       "pair": {
         "reference": "../bitmaps_reference/Entire_document_1200px.png",
-        "test": "../bitmaps_test/20260228-180210/Entire_document_1200px.png",
+        "test": "../bitmaps_test/20260228-184828/Entire_document_1200px.png",
         "selector": "document",
         "fileName": "Entire_document_1200px.png",
         "label": "Entire document",
@@ -46,9 +46,9 @@
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 0.5839856490541422,
-          "misMatchPercentage": "0.58",
-          "analysisTime": 40
+          "rawMisMatchPercentage": 0.5551206784083497,
+          "misMatchPercentage": "0.56",
+          "analysisTime": 32
         }
       },
       "status": "pass"
@@ -56,7 +56,7 @@
     {
       "pair": {
         "reference": "../bitmaps_reference/Header_tag_1024px.png",
-        "test": "../bitmaps_test/20260228-180210/Header_tag_1024px.png",
+        "test": "../bitmaps_test/20260228-184828/Header_tag_1024px.png",
         "selector": "header",
         "fileName": "Header_tag_1024px.png",
         "label": "Header tag",
@@ -72,7 +72,9 @@
             "width": 0,
             "height": 0
           },
-          "misMatchPercentage": "0.00"
+          "rawMisMatchPercentage": 0.576171875,
+          "misMatchPercentage": "0.58",
+          "analysisTime": 9
         }
       },
       "status": "pass"
@@ -80,7 +82,7 @@
     {
       "pair": {
         "reference": "../bitmaps_reference/Header_tag_1200px.png",
-        "test": "../bitmaps_test/20260228-180210/Header_tag_1200px.png",
+        "test": "../bitmaps_test/20260228-184828/Header_tag_1200px.png",
         "selector": "header",
         "fileName": "Header_tag_1200px.png",
         "label": "Header tag",
@@ -96,9 +98,7 @@
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 0.49166666666666664,
-          "misMatchPercentage": "0.49",
-          "analysisTime": 15
+          "misMatchPercentage": "0.00"
         }
       },
       "status": "pass"
@@ -106,7 +106,7 @@
     {
       "pair": {
         "reference": "../bitmaps_reference/Nav_tag_1024px.png",
-        "test": "../bitmaps_test/20260228-180210/Nav_tag_1024px.png",
+        "test": "../bitmaps_test/20260228-184828/Nav_tag_1024px.png",
         "selector": "nav",
         "fileName": "Nav_tag_1024px.png",
         "label": "Nav tag",
@@ -122,7 +122,9 @@
             "width": 0,
             "height": 0
           },
-          "misMatchPercentage": "0.00"
+          "rawMisMatchPercentage": 0.9276729559748428,
+          "misMatchPercentage": "0.93",
+          "analysisTime": 16
         }
       },
       "status": "pass"
@@ -130,7 +132,7 @@
     {
       "pair": {
         "reference": "../bitmaps_reference/Nav_tag_1200px.png",
-        "test": "../bitmaps_test/20260228-180210/Nav_tag_1200px.png",
+        "test": "../bitmaps_test/20260228-184828/Nav_tag_1200px.png",
         "selector": "nav",
         "fileName": "Nav_tag_1200px.png",
         "label": "Nav tag",
@@ -146,9 +148,7 @@
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 0.9276729559748428,
-          "misMatchPercentage": "0.93",
-          "analysisTime": 12
+          "misMatchPercentage": "0.00"
         }
       },
       "status": "pass"
@@ -156,7 +156,7 @@
     {
       "pair": {
         "reference": "../bitmaps_reference/Link_with_data-qa_hover_1024px.png",
-        "test": "../bitmaps_test/20260228-180210/Link_with_data-qa_hover_1024px.png",
+        "test": "../bitmaps_test/20260228-184828/Link_with_data-qa_hover_1024px.png",
         "selector": "[data-qa=\"nav-hover\"]",
         "fileName": "Link_with_data-qa_hover_1024px.png",
         "label": "Link with data-qa_hover",
@@ -180,7 +180,7 @@
     {
       "pair": {
         "reference": "../bitmaps_reference/Link_with_data-qa_hover_1200px.png",
-        "test": "../bitmaps_test/20260228-180210/Link_with_data-qa_hover_1200px.png",
+        "test": "../bitmaps_test/20260228-184828/Link_with_data-qa_hover_1200px.png",
         "selector": "[data-qa=\"nav-hover\"]",
         "fileName": "Link_with_data-qa_hover_1200px.png",
         "label": "Link with data-qa_hover",
@@ -204,8 +204,8 @@
     {
       "pair": {
         "reference": "../bitmaps_reference/Link_with_class_is-active_1024px.png",
-        "test": "../bitmaps_test/20260228-180210/Link_with_class_is-active_1024px.png",
-        "selector": ".header__link--active",
+        "test": "../bitmaps_test/20260228-184828/Link_with_class_is-active_1024px.png",
+        "selector": "a.is-active",
         "fileName": "Link_with_class_is-active_1024px.png",
         "label": "Link with class_is-active",
         "requireSameDimensions": false,
@@ -228,8 +228,8 @@
     {
       "pair": {
         "reference": "../bitmaps_reference/Link_with_class_is-active_1200px.png",
-        "test": "../bitmaps_test/20260228-180210/Link_with_class_is-active_1200px.png",
-        "selector": ".header__link--active",
+        "test": "../bitmaps_test/20260228-184828/Link_with_class_is-active_1200px.png",
+        "selector": "a.is-active",
         "fileName": "Link_with_class_is-active_1200px.png",
         "label": "Link with class_is-active",
         "requireSameDimensions": false,
@@ -252,7 +252,7 @@
     {
       "pair": {
         "reference": "../bitmaps_reference/Main_tag_1024px.png",
-        "test": "../bitmaps_test/20260228-180210/Main_tag_1024px.png",
+        "test": "../bitmaps_test/20260228-184828/Main_tag_1024px.png",
         "selector": "main",
         "fileName": "Main_tag_1024px.png",
         "label": "Main tag",
@@ -270,7 +270,7 @@
           },
           "rawMisMatchPercentage": 0.6911057692307692,
           "misMatchPercentage": "0.69",
-          "analysisTime": 33
+          "analysisTime": 32
         }
       },
       "status": "pass"
@@ -278,7 +278,7 @@
     {
       "pair": {
         "reference": "../bitmaps_reference/Main_tag_1200px.png",
-        "test": "../bitmaps_test/20260228-180210/Main_tag_1200px.png",
+        "test": "../bitmaps_test/20260228-184828/Main_tag_1200px.png",
         "selector": "main",
         "fileName": "Main_tag_1200px.png",
         "label": "Main tag",
@@ -296,7 +296,7 @@
           },
           "rawMisMatchPercentage": 0.5897435897435898,
           "misMatchPercentage": "0.59",
-          "analysisTime": 34
+          "analysisTime": 32
         }
       },
       "status": "pass"
@@ -304,7 +304,7 @@
     {
       "pair": {
         "reference": "../bitmaps_reference/Card_with_data-qa_card_1024px.png",
-        "test": "../bitmaps_test/20260228-180210/Card_with_data-qa_card_1024px.png",
+        "test": "../bitmaps_test/20260228-184828/Card_with_data-qa_card_1024px.png",
         "selector": "[data-qa=\"card\"]",
         "fileName": "Card_with_data-qa_card_1024px.png",
         "label": "Card with data-qa_card",
@@ -328,7 +328,7 @@
     {
       "pair": {
         "reference": "../bitmaps_reference/Card_with_data-qa_card_1200px.png",
-        "test": "../bitmaps_test/20260228-180210/Card_with_data-qa_card_1200px.png",
+        "test": "../bitmaps_test/20260228-184828/Card_with_data-qa_card_1200px.png",
         "selector": "[data-qa=\"card\"]",
         "fileName": "Card_with_data-qa_card_1200px.png",
         "label": "Card with data-qa_card",

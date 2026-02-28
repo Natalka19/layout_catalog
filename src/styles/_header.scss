@@ -21,18 +21,12 @@
     padding: 0 50px;
   }
 
-  &__logo {
-    display: flex;
-    align-items: center;
+  &__logo-img {
+    display: block;
     width: 40px;
     height: 40px;
     margin: 10px 0;
-
-    img {
-      max-width: 100%;
-      height: auto;
-      display: block;
-    }
+    object-fit: contain;
   }
 
   &__nav {
@@ -65,7 +59,7 @@
       color: $accent-color;
     }
 
-    &--active {
+    &.is-active {
       color: $accent-color;
 
       &::after {
